@@ -7,7 +7,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-laxman--panthi.github.io-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://laxman-panthi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laxman%20Panthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxman.panthi@example.com)
 
 ---
 
